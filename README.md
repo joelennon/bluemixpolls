@@ -2,7 +2,7 @@
 
 This application allows you to create polls - and enables users to vote on polls,
 with the results updating in real-time. The app accompanies the IBM developerWorks article
-[Building a real-time application with Node.js, AngularJS and MongoDB](http://www.ibm.com/developerworks/article_url_here).
+[Building a real-time application with Node.js, AngularJS and MongoDB](http://www.ibm.com/developerworks/library/wa-nodejs-polling-app/).
 
 The app uses the following libraries and frameworks:
 
@@ -16,7 +16,7 @@ The app uses the following libraries and frameworks:
 
 ## Demo
 
-You can see the app running live at [http://dwnodepolls.ng.bluemix.net/](http://dwnodepolls.ng.bluemix.net/).
+You can see the app running live at [http://bluemixpolls.mybluemix.net/](http://bluemixpolls.mybluemix.net/).
 
 ## License
 
